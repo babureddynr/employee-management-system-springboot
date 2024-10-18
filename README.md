@@ -30,8 +30,6 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
 ## Screenshots 📸
 ![Screenshot](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual screenshot -->
 
-## Project Demo 🎥
-Check out the video demo [here](https://www.youtube.com/watch?v=your-demo-link) <!-- Replace with actual video link -->
 
 ## API Endpoints 🌐
 
