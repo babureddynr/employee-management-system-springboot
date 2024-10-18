@@ -1,6 +1,4 @@
-Sure! Here’s the `README.md` content without the bash commands and browser instructions:
 
-```markdown
 # Employee Management System 🚀
 
 ![Employee Management System](project-image.png) <!-- Replace with an actual image -->
@@ -60,5 +58,3 @@ This project is licensed under the MIT License.
 
 Made with ❤️ by [babureddynr](https://github.com/babureddynr)
 ```
-
-Feel free to replace the placeholders with your actual project image and video link!
