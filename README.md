@@ -27,6 +27,14 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
    git clone https://github.com/babureddynr/employee-management-system-springboot.git
    ```
 
+   
+## Overview
+This project is an Employee Management System built using Spring Boot.
+
+## Video Demo
+[Watch the Video Demo](https://drive.google.com/file/d/1iXAvR-FjX6oZMqjODLG7MN8vYY0nuA9E/view?usp=sharing)
+
+
 ## Screenshots 📸
 ![Screenshot](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual screenshot -->
 
