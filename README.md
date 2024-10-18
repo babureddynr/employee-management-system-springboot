@@ -2,8 +2,7 @@
 # Employee Management System 🚀
 
 ![Employee Management System](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual image -->
-## Project Demo 🎥
-Check out the video demo [here](https://www.youtube.com/watch?v=your-demo-link) <!-- Replace with actual video link -->
+
 
 
 A full-fledged **Employee Management System** built using **Spring Boot**. It allows CRUD operations, REST APIs, and features a responsive UI powered by **Bootstrap** and **JavaScript**.
