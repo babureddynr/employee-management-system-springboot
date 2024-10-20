@@ -1,6 +1,10 @@
 
 # Employee Management System 🚀
 
+## Live Demo  ->
+[Watch the Live webapplication](https://babureddynr.github.io/spring-html-pages/employee.html)
+
+
 ![Employee Management System](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual image -->
 
 
@@ -32,7 +36,7 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
 This project is an Employee Management System built using Spring Boot.
 
 ## Live Demo  ->
-[Watch the Video Demo](https://babureddynr.github.io/spring-html-pages/employee.html)
+[Watch the Live webapplication](https://babureddynr.github.io/spring-html-pages/employee.html)
 
 
 ## Screenshots 📸
