@@ -31,8 +31,8 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
 ## Overview
 This project is an Employee Management System built using Spring Boot.
 
-## Video Demo
-[Watch the Video Demo](https://drive.google.com/file/d/1iXAvR-FjX6oZMqjODLG7MN8vYY0nuA9E/view?usp=sharing)
+## Live Demo  ->
+[Watch the Video Demo](https://babureddynr.github.io/spring-html-pages/employee.html)
 
 
 ## Screenshots 📸
